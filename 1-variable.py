@@ -16,3 +16,11 @@ print(message)
 # get user input
 inp = input('type something: ')
 print(inp)
+
+# statements - a unit of code
+
+# operators - special symbols that represent computation
+
+# operands - the values the operator is applied to
+
+# expressions - a combination of values, variables, and operators
